@@ -1,0 +1,25 @@
+{
+  "owner_id": 7715278630,
+  "allowed_users": [],
+  "user_data": {},
+  "auto_setup": {
+    "setup1": {
+      "source_channel": "",
+      "dest_channel": "",
+      "dest_caption": "",
+      "completed_count": 0
+    },
+    "setup2": {
+      "source_channel": "",
+      "dest_channel": "",
+      "dest_caption": "",
+      "completed_count": 0
+    },
+    "setup3": {
+      "source_channel": "",
+      "dest_channel": "",
+      "dest_caption": "",
+      "completed_count": 0
+    }
+  }
+}
