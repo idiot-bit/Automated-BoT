@@ -7,9 +7,9 @@
       "source_channel": "",
       "dest_channel": "",
       "dest_caption": "",
-      "key_mode": "auto",       // <== NEW (auto / manual)
-      "style": "mono",           // <== NEW (quote / mono)
-      "enabled": false,          // <== NEW (true / false)
+      "key_mode": "auto",
+      "style": "mono",
+      "enabled": false,
       "completed_count": 0
     },
     "setup2": {
